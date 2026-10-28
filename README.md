@@ -41,13 +41,15 @@ Sou um entusiasta de dados apaixonado por transformar números e informações b
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jomosine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Mota Neto" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomosine&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+<div align="center">
+  <a href="https://github.com/jomosine">
+    <img src="https://github-readme-stats.vercel.app/api?username=jomosine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Mota Neto" />
+  </a>
+  <br><br>
+  <a href="https://github.com/jomosine">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomosine&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  </a>
+</div>
 
 ---
 
