@@ -14,7 +14,7 @@ Sou um entusiasta de dados apaixonado por transformar números e informações b
 
 <div align="center">
   <a href="https://github.com/jomosine/Portifolio">
-    <img src="https://raw.githubusercontent.com/jomosine/Portifolio/main/images/readme_banner.png" alt="Banner de Apresentação dos Projetos de Mota Neto" width="900px">
+    <img src="[https://raw.githubusercontent.com/jomosine/Portifolio/main/images/readme_banner.png" alt="Banner de Apresentação dos Projetos de Mota Neto](https://github.com/jomosine/Portifolio/blob/main/Gemini_Generated_Image_bbkqk6bbkqk6bbkq.jpg)" width="900px">
   </a>
 </div>
 *Clique na imagem para acessar o repositório principal do portfólio.*
