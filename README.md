@@ -39,20 +39,6 @@ Sou um entusiasta de dados apaixonado por transformar números e informações b
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/jomosine">
-    <img src="https://github-readme-stats.vercel.app/api?username=jomosine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Mota Neto" />
-  </a>
-  <br><br>
-  <a href="https://github.com/jomosine">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomosine&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-  </a>
-</div>
-
----
-
 ### 📬 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mota-neto-data)
