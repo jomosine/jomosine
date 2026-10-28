@@ -25,9 +25,9 @@ Sou um entusiasta de dados apaixonado por transformar números e informações b
 
 ### 📊 Projetos em Destaque
 
-*   **[Site Responsivo]([link-para-o-repositorio](https://github.com/jomosine/sitebigbangtheory))**
+*   **[Site Responsivo]([link-para-o-repositorio](https://github.com/jomosine/sitebigbangtheory])**
 
-*   **[Meu currículum]([link-para-o-repositorio](https://github.com/jomosine/Portifolio))**
+*   **[Meu currículum]([link-para-o-repositorio](https://github.com/jomosine/Portifolio])**
 
 ---
 
