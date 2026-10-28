@@ -25,9 +25,13 @@ Sou um entusiasta de dados apaixonado por transformar números e informações b
 
 ### 📊 Projetos em Destaque
 
-*   **[Site Responsivo]([link-para-o-repositorio](https://github.com/jomosine/sitebigbangtheory])**
+*   **[Nome do Projeto 1](link-para-o-repositorio)**
+    *   *Descrição:* Breve resumo do projeto (ex: Análise exploratória de dados de vendas utilizando Pandas e Seaborn para identificar gargalos de conversão).
+    *   *Tecnologias:* Python, Pandas, Matplotlib, Jupyter Notebook.
 
-*   **[Meu currículum]([link-para-o-repositorio](https://github.com/jomosine/Portifolio])**
+*   **[Nome do Projeto 2](link-para-o-repositorio)**
+    *   *Descrição:* Breve resumo de outro projeto (ex: Dashboard interativo em Power BI conectado a uma base SQL para acompanhamento de KPIs financeiros).
+    *   *Tecnologias:* SQL, Power BI, DAX.
 
 ---
 
@@ -43,6 +47,4 @@ Sou um entusiasta de dados apaixonado por transformar números e informações b
 ### 📬 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-
-</div>
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email
