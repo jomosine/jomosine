@@ -25,13 +25,17 @@ Sou um entusiasta de dados apaixonado por transformar números e informações b
 
 ### 📊 Projetos em Destaque
 
-*   **[Nome do Projeto 1](link-para-o-repositorio)**
-    *   *Descrição:* Breve resumo do projeto (ex: Análise exploratória de dados de vendas utilizando Pandas e Seaborn para identificar gargalos de conversão).
-    *   *Tecnologias:* Python, Pandas, Matplotlib, Jupyter Notebook.
+*   **[Portfólio Principal](https://github.com/jomosine/Portifolio)**
+    *   *Descrição:* Repositório centralizador de projetos e estudos desenvolvidos na área de dados e desenvolvimento.
+    *   *Tecnologias:* Python, Git.
 
-*   **[Nome do Projeto 2](link-para-o-repositorio)**
-    *   *Descrição:* Breve resumo de outro projeto (ex: Dashboard interativo em Power BI conectado a uma base SQL para acompanhamento de KPIs financeiros).
-    *   *Tecnologias:* SQL, Power BI, DAX.
+*   **[Site The Big Bang Theory](https://github.com/jomosine/sitebigbangtheory)**
+    *   *Descrição:* Projeto de página web temática desenvolvida para estruturação de conteúdo e prática de front-end.
+    *   *Tecnologias:* HTML, CSS, JavaScript.
+
+*   **[Projeto Site Brasil](https://github.com/jomosine/Projeto-Site-Brasil)**
+    *   *Descrição:* Aplicação web voltada para a exploração e exibição de dados/informações sobre o Brasil.
+    *   *Tecnologias:* HTML, CSS, JavaScript.
 
 ---
 
@@ -46,5 +50,7 @@ Sou um entusiasta de dados apaixonado por transformar números e informações b
 
 ### 📬 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mota-neto-data)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jomosine@hotmail.com)
+
+</div>
