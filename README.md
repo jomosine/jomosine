@@ -1,7 +1,7 @@
 # Olá, eu sou o Mota Neto! 👋
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-GITHUB&color=blue&style=flat-square" alt="Visitas ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=jomosine&color=blue&style=flat-square" alt="Visitas ao perfil" />
 </div>
 
 <br>
@@ -34,8 +34,8 @@ Sou um entusiasta de dados apaixonado por transformar números e informações b
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jomosine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomosine&layout=compact&theme=tokyonight" />
 </div>
 
 ---
